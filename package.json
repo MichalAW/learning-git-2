@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "learning-git-2",
 	"version": "1.0.0",
 	"description": "",
@@ -26,3 +27,30 @@
 		"autoprefixer-cli": "^1.0.0"
 	}
 }
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichalAW/learning-git-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichalAW/learning-git-2/issues"
+  },
+  "homepage": "https://github.com/MichalAW/learning-git-2#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.3"
+  },
+  "dependencies": {
+    "nu-html-checker": "^0.1.0"
+  }
+}
+
