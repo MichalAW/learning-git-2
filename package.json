@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/MichalAW/learning-git-2#readme",
   "devDependencies": {
-    "autoprefixer-cli": "^1.0.0"
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.3"
+  },
+  "dependencies": {
+    "nu-html-checker": "^0.1.0"
   }
 }
