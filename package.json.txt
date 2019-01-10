@@ -4,7 +4,6 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"scripts": {
 		"test": "npm run test:html",
 		"test:html": "globstar nu-html-checker *.html"
 	},
