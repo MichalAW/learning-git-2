@@ -15,3 +15,8 @@ h1 {
 	display: -ms-flexbox;
 	display: flex;
 }
+
+.test {
+	display: flex;
+	flex-wrap: wrap;
+}
